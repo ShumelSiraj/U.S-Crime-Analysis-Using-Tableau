@@ -3,11 +3,6 @@
 ## Overview
 This data science project titled "U.S. Crime Analysis 2019" examines crime patterns across the United States, aiming to uncover the geographical distribution of crimes, analyze the frequency and types of crimes, and explore the factors influencing crime rates.
 
-## Repository Structure
-`data/`: Contains the raw data files in .xls format, sourced from the FBI's crime statistics.
-`documentation/`: Includes the comprehensive project report in PDF format.
-`tableau_dashboard/`: Stores the Tableau workbook files (.twbx) for interactive crime data visualizations.
-
 ## Data
 The analysis utilizes FBI crime statistics from 2000 to 2019, encompassing a wide array of crime data across all U.S. states and cities, including both violent and property crimes.
 
